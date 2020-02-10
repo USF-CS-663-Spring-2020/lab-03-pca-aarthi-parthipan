@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Aarthi Parthipan
+**USF email address**:  aparthipan@dons.usfca.edu
